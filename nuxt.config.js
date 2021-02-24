@@ -68,5 +68,10 @@ export default {
         ]
       }
     }
+  },
+  module: {
+    rulers:{
+      loader: 'vue-loader'
+    }
   }
 }
